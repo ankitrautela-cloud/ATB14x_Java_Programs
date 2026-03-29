@@ -1,4 +1,4 @@
-public class main {
+class main {
     public static void main(String[] args) {
     /*
      selenium automation 14x login page
